@@ -144,7 +144,7 @@ Dissertation: *Calibration of Standard Stars* (2024)
 
 [Read the dissertation](https://doi.org/10.18452/29358)
 
-[My academic thesis is also in a repository.](https://github.com/CodeBBQ/academic-thesis)
+[My academic theses are also in a repository.](https://github.com/CodeBBQ/academic-thesis)
 
 ---
 
